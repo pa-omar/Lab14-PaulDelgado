@@ -1,0 +1,9 @@
+.git
+.github
+**/bin
+**/obj
+published
+.vs
+.idea
+*.user
+*.suo
